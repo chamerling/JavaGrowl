@@ -11,4 +11,4 @@ Under OS X preferences, go to the Growl options and then activate the network fe
 ##Code
 Using JavaGrowl is quite simple, once you have activated the network feature in Growl, you can use it like this:
 
-[[gist.github.com/1178562]]
+https://gist.github.com/1178562
