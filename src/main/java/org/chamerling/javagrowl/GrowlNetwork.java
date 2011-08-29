@@ -169,9 +169,4 @@ public class GrowlNetwork implements Growl {
 		g.doRegistration(appName, password);
 		return g;
 	}
-	
-	public static void main(String[] args) {
-		Growl g = GrowlNetwork.register("JavaGrowlApp", "YOURPASSWORD");
-		g.notify("JavaGrowlApp", "The title", "This is the notification message...", "YOURPASSWORD");
-	}
 }
